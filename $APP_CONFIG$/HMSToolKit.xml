@@ -1,0 +1,47 @@
+<application>
+  <component name="HMSToolKitPlugin">
+    <option name="countryRegionCode" value="VN" />
+    <option name="kitsSelectModule" value="{&quot;35bc3024&quot;:&quot;app&quot;}" />
+    <option name="localAgreementList">
+      <list>
+        <LocalAgreement>
+          <option name="agree" value="true" />
+          <option name="area" value="DR2" />
+          <option name="name" value="latest" />
+          <option name="signAgreementTime" value="1638963478392" />
+          <option name="version" value="20210330" />
+        </LocalAgreement>
+      </list>
+    </option>
+    <option name="usedKitsMap">
+      <map>
+        <entry key="35bc3024">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="51f9c0a1">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="9759f142">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="cf67f36f">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="fad2746a">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="userId" value="e30364b3-b088-4895-a799-ce81b9e3c3bf" />
+  </component>
+</application>
